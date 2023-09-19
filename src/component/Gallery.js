@@ -1,5 +1,5 @@
 import React from "react";
-import slide from "../../public/images/slide_2.png";
+import slide from "../images/slide_2.png";
 
 export function Profile() {
   return <img src={slide} width={100} height={100} />;
